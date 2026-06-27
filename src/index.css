@@ -257,7 +257,7 @@ section {
 }
 
 .hero-content {
-  padding: 0 max(40px, 6vw) max(72px, 10vh);
+  padding: 0 0 max(72px, 10vh);
   display: flex;
   flex-direction: column;
   align-items: flex-start;
