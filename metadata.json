@@ -1,0 +1,6 @@
+{
+  "name": "Skup Mercedesów 24/7",
+  "description": "Skup starych, pognitych, powypadkowych i nieodpalających Mercedesów 24/7. Łódź i cała Polska. Gotówka od ręki, darmowy transport, darmowa wycena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
